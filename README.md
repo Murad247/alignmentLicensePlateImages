@@ -12,6 +12,8 @@
 
 Стек технологий: Python, OpenCV, Pytorch
 
+![загруженное](https://github.com/Murad247/alignmentLicensePlateImages/assets/61061449/71aa5795-8c8a-45a6-b804-121beb855552)
+
 # Описание файлов:
 1. data_preprocess.ipynb - содержит код для разметки и подготовки данных к обучению сетей
 2. number_bound.ipynb - код обучения свёрточной нейросети для определения угловых точек автомобильных номеров номеров
